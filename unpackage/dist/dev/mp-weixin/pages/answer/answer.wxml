@@ -1,0 +1,1 @@
+<view class="bar"><text>答题课堂</text><button type="warn" plain="true" data-event-opts="{{[['tap',[['goStandard',['$event']]]]]}}" bindtap="__e">练习模式</button><button type="warn" plain="true" data-event-opts="{{[['tap',[['goAnswer',['$event']]]]]}}" bindtap="__e">模拟考试</button><button type="warn" plain="true">错题集</button></view>

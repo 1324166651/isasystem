@@ -1,0 +1,1 @@
+<view class="btn-plusempty data-v-dc676738" animation="{{animationData}}" hover-class="bottom-btn-hover" data-event-opts="{{[['tap',[['tapTop1',['$event']]]]]}}" bindtap="__e"><text class="my-icon plusempty-icon data-v-dc676738"></text></view>

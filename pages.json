@@ -1,0 +1,129 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		// {
+		// 	"path": "pages/index/index",
+		// 	"style": 
+		// 	{
+		// 		//页面标题配置文件
+		// 		// "navigationBarTitleText": "uni-app"
+		// 	}
+		// }
+        // ,
+				{
+            "path" : "pages/home/home",
+            "style" :                                                                                    
+            {
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/answer/answer",
+            "style" :                                                                                    
+            {
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/search/search",
+            "style" :                                                                                    
+            {
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/profile/profile",
+            "style" :                                                                                    
+            {
+                "enablePullDownRefresh": false
+            }
+            
+        },
+				{
+				    "path" : "pages/detail/detail",
+				    "style" :                                                                                    
+				    {
+				        "enablePullDownRefresh": false
+				    }
+				    
+				},
+				{
+				    "path" : "pages/answer/practice",
+				    "style" :                                                                                    
+				    {
+				        "enablePullDownRefresh": false
+				    }
+				    
+				}
+    ],
+	"globalStyle": {
+		//导航字体颜色
+		"navigationBarTextStyle": "black",
+		//全局标题配置文件
+		"navigationBarTitleText": "成语科普答题系统",
+		//导航背景颜色
+		"navigationBarBackgroundColor": "#C0FF3E",
+		//c窗口背景颜色
+		"backgroundColor": "#F8F8F8",
+		//设置下拉
+		"enablePullDownRefresh": true
+	},
+	"tabBar":{
+		//字体颜色
+		"color":"#C0C0C0",
+		//选中字体颜色
+		"selectedColor":"#d4237a",
+		//背景颜色
+		"backgroundColor":"#FAFAFA",
+		//上边框只支持白色和黑色
+		"borderStyle":"white",
+		//支持上边框和下边框两种，可以做成头部导航
+		"position":"bottom",
+		"list":[
+			{//文字
+				"text":"首页",
+				//路由
+				"pagePath":"pages/home/home",
+				//图片
+				"iconPath":"static/img/home/home.png",
+				//选中图片
+				"selectedIconPath":"static/img/home/home-active.png"
+			},
+			{
+				"text":"搜索",
+				"pagePath":"pages/search/search",
+				"iconPath":"./static/img/search/search.png",
+				"selectedIconPath":"static/img/search/search-active.png"
+			},
+			{
+				"text":"答题",
+				"pagePath":"pages/answer/answer",
+				"iconPath":"static/img/answer/answer.png",
+				"selectedIconPath":"static/img/answer/answer-active.png"
+			},
+			{
+				"text":"我的",
+				"pagePath":"pages/profile/profile",
+				"iconPath":"static/img/profile/profile.png",
+				"selectedIconPath":"static/img/profile/profile-active.png"
+			}
+		]
+	},
+	"condition":{
+		"current":0,
+		"list":[{
+			"name":"详情页",
+			"path":"pages/detail/detail"
+			// "query":"id=88"
+		},
+		{
+			"name":"练习模式",
+			"path":"pages/answer/practice"
+			// "query":"id=88"
+		}
+		
+		]
+	}
+}

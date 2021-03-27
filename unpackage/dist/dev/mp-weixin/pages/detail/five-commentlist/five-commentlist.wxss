@@ -1,0 +1,115 @@
+
+.view-content-comment {
+	background-color: white;
+	margin-top: 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding: 30rpx;
+	text-align: left;
+}
+.view-content-comment	.title {
+		width: 100%;
+		color: #333;
+		font-weight: bold;
+		font-size: 34rpx;
+}
+.border-line {
+	border-bottom: 1px solid #f6f6f6;
+}
+.view-pro-comment-list {
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	background-color: white;
+	padding-bottom: 20rpx;
+}
+.view-pro-comment-list-item {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	margin-top: 20rpx;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+}
+.comment-pro-title {
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	height: 90rpx;
+	margin-left: 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+}
+.pro-comment-content {
+	color: #000;
+	font-size: 32rpx;
+	font-weight: 500;
+	margin-top: 20rpx;
+}
+.praise-icon {
+	height: 46rpx;
+	width: 46rpx;
+	line-height: 1;
+	font-size: 46rpx;
+	color: #999;
+}
+.praise-num {
+	font-size: 26rpx;
+	color: #999;
+}
+.pro-comment-sub {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+}
+.pro-comment-sub-time {
+		color: #999;
+		font-size: 26rpx;
+}
+.comment-name {
+	color: #48648b;
+	font-size: 32rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.view-comment-list-item-photo {
+	height: 85rpx;
+	width: 85rpx;
+	border-radius: 5rpx;
+	border: 1px solid #f6f6f6;
+}
+

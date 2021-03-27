@@ -1,0 +1,24 @@
+
+.search-list{	
+	border-left:#F7F7F7 7rpx solid;
+	border-right:#F7F7F7 7rpx solid;
+}
+.search-list :last-child{
+	border-bottom:#F7F7F7 7rpx solid;
+}
+.search-list view{
+	
+	width: 100%;
+	color: #8A8A8A;
+	font-size: 28rpx;
+	box-sizing: border-box;
+	text-align: center;
+	padding: 20rpx 0;
+	border-top: 2rpx solid #FFF;
+	border-left: 2rpx solid #FFF;
+	overflow: hidden;	
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	background-color: #FFFFFF;
+}
+

@@ -1,0 +1,13 @@
+
+.box{
+	width: 100px;
+	/* rpx响应式单位 文字样式也可设置成rpx */
+	height: 100rpx;
+	background-color: #007AFF;
+}
+.box1{
+	width: 150px;
+	height: 150px;
+	background-color: #007AFF;
+}
+

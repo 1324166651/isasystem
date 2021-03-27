@@ -1,0 +1,24 @@
+
+.tab-control.data-v-29f3c1d0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  text-align: center;
+  height: 80rpx;
+  line-height: 80rpx;
+  font-size: 30rpx;
+  background-color: #FFFFFF;
+}
+.tab-control-item.data-v-29f3c1d0 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.tab-control-item text.data-v-29f3c1d0 {
+  padding: 10rpx;
+}
+.active text.data-v-29f3c1d0 {
+  color: #EE4000;
+  border-bottom: 6rpx solid #EE2C2C;
+}
+

@@ -1,0 +1,41 @@
+
+.home{
+	height: 100vh;
+	position: relative;
+	font-size: 50rpx;
+	font-family:"楷体";
+}
+.home image{
+	height: 100%;
+	width: 100%;
+}
+.home view text :not(.){
+	height: 100rpx;
+	line-height: 100rpx;
+	padding-left: 30rpx;
+}
+.tabcontrol {
+  position: relative;
+	display: block;
+  z-index: 9;
+}
+.content {
+  overflow: hidden;
+  position: absolute;
+	top: 0;
+  bottom: 100rpx;
+  left: 0;
+  right: 0;
+	z-index: 1;
+}
+.text{
+	position:absolute;
+	bottom: 0;
+	height: 100rpx;
+}
+.text image{
+	width: 100vw;
+	height: 1200rpx;
+}
+
+

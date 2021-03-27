@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['itemClick',['$event']]]]]}}" class="idioms-item data-v-abcb71ae" bindtap="__e"><image src="{{showImage}}" alt class="data-v-abcb71ae"></image><text class="data-v-abcb71ae">{{name}}</text><view class="icon data-v-abcb71ae"><image src="../../../static/img/home/转发.png" class="data-v-abcb71ae"></image></view></view>

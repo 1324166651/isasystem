@@ -1,0 +1,1 @@
+<view class="search-list"><block wx:for="{{searchlist}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view data-event-opts="{{[['tap',[['keywordsClick',['$0'],[[['searchlist','',index,'id']]]]]]]}}" bindtap="__e">{{''+item.name+''}}</view></block></view>
