@@ -1,9 +1,9 @@
 {
   "enablePullDownRefresh": false,
   "usingComponents": {
-    "tab-control": "/pages/home/tabControl/TabControl",
-    "idioms-list": "/pages/home/idioms/IdiomsList",
+    "tab-control": "/pages/home/coms/tabControl/TabControl",
+    "idioms-list": "/pages/home/coms/idioms/IdiomsList",
     "my-fab-top": "/components/wppeng-top/wppeng-top",
-    "bw-swiper": "/wxcomponents/bw-swiper/bw-swiper"
+    "bw-swiper": "/pages/home/coms/bw-swiper/bw-swiper"
   }
 }

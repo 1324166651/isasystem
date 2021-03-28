@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "idioms-list-item": "/pages/home/coms/idioms/IdiomsListItem"
+  }
+}

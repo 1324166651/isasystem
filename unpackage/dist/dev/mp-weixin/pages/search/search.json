@@ -1,7 +1,7 @@
 {
   "enablePullDownRefresh": false,
   "usingComponents": {
-    "zy-search": "/components/zy-search/zy-search",
+    "zy-search": "/pages/search/coms/zy-search",
     "search-list": "/pages/search/coms/SearchIist"
   }
 }

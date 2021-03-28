@@ -36,7 +36,7 @@
 			goAnswer() {
 				// 模拟考试
 				uni.navigateTo({
-					url: '/pages/practice/simulationExam/answerIn'
+					url: ''
 				})
 			},
 		}

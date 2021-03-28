@@ -39,10 +39,10 @@
 	</view>
 </template>
 <script>
-	import TabControl from "./tabControl/TabControl.vue"
-	import IdiomsList from "./idioms/IdiomsList.vue"
-	import MyFabTop from "../../components/wppeng-top/wppeng-top.vue"
-	import bwSwiper from '@/wxcomponents/bw-swiper/bw-swiper.vue'
+	import TabControl from "./coms/tabControl/TabControl.vue"
+	import IdiomsList from "./coms/idioms/IdiomsList.vue"
+	import MyFabTop from "@/components/wppeng-top/wppeng-top.vue"
+	import bwSwiper from './coms/bw-swiper/bw-swiper.vue'
 	export default {
 		data() {
 			return {

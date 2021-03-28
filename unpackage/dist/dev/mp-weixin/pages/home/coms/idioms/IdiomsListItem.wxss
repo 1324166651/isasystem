@@ -1,0 +1,25 @@
+
+.idioms-item.data-v-434583ac {
+  padding-bottom: 80rpx;
+  position: relative;
+	height: 60%;
+	font-size: 50rpx;
+	font-family:"楷体";
+}
+.idioms-item image.data-v-434583ac {
+  width: 30%;
+  border-radius: 10rpx;
+	vertical-align:middle;
+	margin-left: 30rpx;
+}
+.idioms-item text.data-v-434583ac {
+	margin-left: 100rpx;
+}
+.icon image.data-v-434583ac{
+	position: absolute;
+	width: 50rpx;
+	height: 50rpx;
+	right: 30rpx;
+	top: 77rpx;
+}
+

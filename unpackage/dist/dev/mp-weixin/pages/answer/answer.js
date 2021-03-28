@@ -168,7 +168,7 @@ var _default =
     goAnswer: function goAnswer() {
       // 模拟考试
       uni.navigateTo({
-        url: '/pages/practice/simulationExam/answerIn' });
+        url: '' });
 
     } } };exports.default = _default;
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))

@@ -1,0 +1,21 @@
+
+.name.data-v-45574b27{
+	display: block;
+	font-family: "华文行楷";
+	font-size: 80rpx;
+}
+.time.data-v-45574b27{
+	display: block;
+	font-size: 30rpx;
+  font-family: "微软雅黑";
+}
+.matter.data-v-45574b27{
+	display: block;
+	padding-top: 30rpx;
+	font-size: 40rpx;
+	font-family: "宋体";
+	text-align: left;
+	text-indent: 2em;
+}
+
+

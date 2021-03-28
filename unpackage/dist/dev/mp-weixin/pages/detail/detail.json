@@ -1,9 +1,9 @@
 {
   "enablePullDownRefresh": false,
   "usingComponents": {
-    "ygc-comment": "/components/ygc-comment/ygc-comment",
-    "five-commentlist": "/pages/detail/five-commentlist/five-commentlist",
-    "detail-item": "/pages/detail/detailItem/DetailItem",
+    "five-commentlist": "/pages/detail/coms/five-commentlist/five-commentlist",
+    "detail-item": "/pages/detail/coms/detailItem/DetailItem",
+    "ygc-comment": "/pages/detail/coms/ygc-comment/ygc-comment",
     "my-fab-top": "/components/wppeng-top/wppeng-top"
   }
 }

@@ -1,0 +1,1 @@
+<view class="idioms data-v-ab3a3012"><block wx:for="{{idioms}}" wx:for-item="item" wx:for-index="index" wx:key="index"><idioms-list-item vue-id="{{'bc0ad022-1-'+index}}" idioms-item="{{item}}" class="data-v-ab3a3012" bind:__l="__l"></idioms-list-item></block></view>

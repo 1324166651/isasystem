@@ -372,9 +372,9 @@
 </script>
 
 <style>
-	@import "@/colorui/animation.css";
-	@import "@/colorui/main.css";
-	@import "@/colorui/icon.css";
+	@import "@/static/css/animation.css";
+	@import "@/static/css/main.css";
+	@import "@/static/css/icon.css";
 	page {
 		background-color: #FFFFFF;
 	}

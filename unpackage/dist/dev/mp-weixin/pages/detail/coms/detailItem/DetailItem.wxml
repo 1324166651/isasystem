@@ -1,0 +1,1 @@
+<view class="data-v-45574b27"><text class="name data-v-45574b27">{{commentInfo.name}}</text><text class="time data-v-45574b27">{{time+" | 制作方:成语科普本小编"}}</text><text class="matter data-v-45574b27">{{commentInfo.matter}}</text></view>

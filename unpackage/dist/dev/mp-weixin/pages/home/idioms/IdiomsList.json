@@ -1,6 +1,0 @@
-{
-  "component": true,
-  "usingComponents": {
-    "idioms-list-item": "/pages/home/idioms/IdiomsListItem"
-  }
-}

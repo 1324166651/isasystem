@@ -27,10 +27,10 @@
 
 <script>
 	
-	import FiveCommentlist from './five-commentlist/five-commentlist.vue'
-	import DetailItem from './detailItem/DetailItem.vue'
-	import ygcComment from '@/components/ygc-comment/ygc-comment.vue';
-	import MyFabTop from "../../components/wppeng-top/wppeng-top.vue"
+	import FiveCommentlist from './coms/five-commentlist/five-commentlist.vue'
+	import DetailItem from './coms/detailItem/DetailItem.vue'
+	import ygcComment from './coms/ygc-comment/ygc-comment.vue'
+	import MyFabTop from "@/components/wppeng-top/wppeng-top.vue"
 	export default {
 		data() {
 			return {
